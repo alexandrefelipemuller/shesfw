@@ -1,0 +1,18 @@
+#ListFunctions List of Functions
+
+= Interface functions =
+
+ * print_error
+ * print_msg
+ * get_entry
+ * get_list
+ * interface_yesno
+
+= Basic Functions =
+
+ * init
+ * finish
+ * write_log
+ * usage
+ * use_profile
+ * get_environment
