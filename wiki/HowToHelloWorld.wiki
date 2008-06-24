@@ -22,8 +22,10 @@ export APP_DEFAULT_DIR=$(pwd)
 Do not erase the following others lines the doesn't appear here!
 
 == Step 2 == 
-Write the code in project.sh as example:
+Write the code in hello.sh as example:
 {{{
+#!/bin/bash
+source config.sh
 init;
 print_msg "Hello World!";
 finish 0;
