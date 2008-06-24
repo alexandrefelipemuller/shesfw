@@ -1,6 +1,4 @@
-#ListFunctions List of Functions
-
-= Interface functions =
+== Interface functions ==
 
  * print_error
  * print_msg
@@ -8,11 +6,18 @@
  * get_list
  * interface_yesno
 
-= Basic Functions =
+== Basic Functions ==
 
  * init
  * finish
  * write_log
  * usage
  * use_profile
+ * get_config
+
+== FW System Functions ==
+
  * get_environment
+
+
+#ListFunctions List of Functions
