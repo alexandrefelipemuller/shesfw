@@ -5,6 +5,7 @@
  * get_entry
  * get_list
  * interface_yesno
+ * progress (text and zenity only)
 
 == Basic Functions ==
 
