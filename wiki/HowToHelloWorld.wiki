@@ -19,7 +19,7 @@ export LOG_FILE="/dev/null"
 # Your project application path
 export APP_DEFAULT_DIR=$(pwd)
 }}}
-Do not erase the following others lines the doesn't appear here!
+Do not erase the following others lines that doesn't appear here!
 
 == Step 2 == 
 Write the code in hello.sh as example:
